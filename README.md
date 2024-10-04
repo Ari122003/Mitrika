@@ -12,95 +12,95 @@ learning algorithms to support farmers in their local language, offering four ma
 
 1. AI-Powered Crop Suitability
 
-Prediction Soil Data: Collects key nutrients
-and moisture info.
+   Prediction Soil Data: Collects key nutrients
+   and moisture info.
 
-Location-Based: Factors in
-geographic conditions.
+   Location-Based: Factors in
+   geographic conditions.
 
-Prediction:
-Suggests best
-crops via ML.
+   Prediction:
+   Suggests best
+   crops via ML.
 
-Maximizes Yield: Optimizes
-output for farmers.
+   Maximizes Yield: Optimizes
+   output for farmers.
 
-Sustainable: Enhances
-resource efficiency
+   Sustainable: Enhances
+   resource efficiency
 
-2.  Precision Fertilizer
+2. Precision Fertilizer
 
-Optimization:
-Smart Plant Disease Diagnosis
-and Solutions
+   Optimization:
+   Smart Plant Disease Diagnosis
+   and Solutions
 
-Data Input: Farmers enter soil
-data (N, P, K) and target crop.
-ML Analysis: System processes
-data using machine learning.
+   Data Input: Farmers enter soil
+   data (N, P, K) and target crop.
+   ML Analysis: System processes
+   data using machine learning.
 
-Fertilizer Recommendation:
-Suggests optimal fertilizers for
-nutrient balance.
+   Fertilizer Recommendation:
+   Suggests optimal fertilizers for
+   nutrient balance.
 
-Maximized Growth: Ensures
-best conditions for crop growth
-and yield.
+   Maximized Growth: Ensures
+   best conditions for crop growth
+   and yield.
 
-Image Upload: Users capture images
-of infected plant leaves.
+   Image Upload: Users capture images
+   of infected plant leaves.
 
-Disease Detection: Model identifies
-the disease using image recognition.
-Information: Provides background on
-the identified disease.
+   Disease Detection: Model identifies
+   the disease using image recognition.
+   Information: Provides background on
+   the identified disease.
 
-Treatment Suggestions:
-Recommends effective treatment
-methods.
+   Treatment Suggestions:
+   Recommends effective treatment
+   methods.
 
 3. Smart Plant Disease Diagnosis
    and Solutions
 
-Data Input: Farmers enter soil
-data (N, P, K) and target crop.
-ML Analysis: System processes
-data using machine learning.
+   Data Input: Farmers enter soil
+   data (N, P, K) and target crop.
+   ML Analysis: System processes
+   data using machine learning.
 
-Fertilizer Recommendation:
-Suggests optimal fertilizers for
-nutrient balance.
+   Fertilizer Recommendation:
+   Suggests optimal fertilizers for
+   nutrient balance.
 
-Maximized Growth: Ensures
-best conditions for crop growth
-and yield.
+   Maximized Growth: Ensures
+   best conditions for crop growth
+   and yield.
 
-Image Upload: Users capture images
-of infected plant leaves.
+   Image Upload: Users capture images
+   of infected plant leaves.
 
-Disease Detection: Model identifies
-the disease using image recognition.
+   Disease Detection: Model identifies
+   the disease using image recognition.
 
-Information: Provides background on
-the identified disease.
+   Information: Provides background on
+   the identified disease.
 
-Treatment Suggestions:
-Recommends effective treatment
-methods
+   Treatment Suggestions:
+   Recommends effective treatment
+   methods
 
 4. Non-Invasive Fruit Quality
    Assessment
 
-IOT Sensors: Uses gas and
-ultrasound sensors for fruit quality
-assessment.
+   IOT Sensors: Uses gas and
+   ultrasound sensors for fruit quality
+   assessment.
 
-Non-Invasive: Evaluates fruit
-without cutting or damaging it.
+   Non-Invasive: Evaluates fruit
+   without cutting or damaging it.
 
-ML Algorithms: Analyzes sensor
-data to determine quality.
+   ML Algorithms: Analyzes sensor
+   data to determine quality.
 
-Efficient Assessment: Provides
-fast, accurate results without
-dissection
+   Efficient Assessment: Provides
+   fast, accurate results without
+   dissection
